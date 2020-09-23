@@ -1,0 +1,1 @@
+-- Create a Sql query in MSSql or MySql with 2 columns: product_name, number_of_purchases
