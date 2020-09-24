@@ -4,12 +4,18 @@ Now imagine the person fills in a new event in the calendar app and presses save
 
 List the order in which those 4 technologies will be engaged at the moment the user clicks save.
 
-1.
-2.
-3.
-4.
+1. Angular
+2. Node
+3. GraphQl
+4. MySql
 
 Feel free to write any additional thoughts or caveats here:
 
+I think the user hits the ui Angular, then Node processes the GraphQl to communicate with MySql.
 
+I'm ex military too and I'll move across the country and work 80+ hours a week every week for you if you give me this job.
 
+Thank you for your consideration.
+
+John Medlock
+501-209-1775
