@@ -13,7 +13,7 @@ function calculateClockAngle(hours, minutes) {
         return "Try again";
     }
 
-    // 360 / 12 = 30
+    // 360 / 12 = 60
     let hour_angle = 60;
 
     // 360 / 60 = 6
